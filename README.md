@@ -290,14 +290,6 @@ Bimestre_08_DFI_Exp2_S4_FranciscoHenriquez/
 
 ## 🌐 Publicación
 
-El proyecto se encuentra almacenado en un repositorio público de GitHub.
-
-La versión publicada mediante **GitHub Pages** permite comprobar el funcionamiento responsive del sitio y sus componentes Bootstrap desde diferentes dispositivos.
-
-### Repositorio GitHub
-
-https://github.com/FranciscoHenriquezAlvarez/Bimestre_08_DFI_Exp2_S4_FranciscoHenriquez
-
 ### GitHub Pages
 
 https://franciscohenriquezalvarez.github.io/Bimestre_08_DFI_Exp2_S4_FranciscoHenriquez/
